@@ -1,0 +1,166 @@
+body{
+	margin:0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+
+
+}
+
+h1{
+	margin: 100px auto 0 auto;
+	
+	font-family: 'Sacramento', cursive;
+	font-size: 562.5%;
+	color: #e5dfdf;
+
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+	color: #11999E;
+	font-size: 2rem;
+
+}
+
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color: #11999E;
+
+}
+
+hr{
+	border-top: 8px;
+	border-left: 0;
+	border-right: 0;
+	border-bottom: 0;
+	border-spacing: 5px;
+	width: 5%;
+	border-style: dotted;
+	border-color: #e3f6f5;
+	margin:100px auto;
+}
+
+p{
+	line-height: 2;
+}
+
+a{
+	color: #e5dfdf;
+	font-family: 'Montserrat', sans-serif;
+	margin:10px 20px;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+a:hover{
+	color: #6ba8a9;
+}
+
+.pro{
+	text-decoration: underline;
+}
+
+.program{
+	font-family: sans-serif;
+	/*font-weight: bold;*/
+	font-size: 2rem;
+	color: #e5dfdf;
+
+}
+
+.top-container{
+	padding-top: 50px;
+	background-color: #1d4d4f;
+}
+
+.middle-container{
+	margin: 100px 0;
+}
+
+.bottom-container{
+	background-color: #1d4d4f;
+	padding: 50px 0 20px;
+}
+
+.bottom-cloud{
+	position: absolute;
+	left: 300px;
+}
+
+.skill-row{
+	margin:100px auto 100px auto;
+	width: 50%;
+	text-align: left;
+}
+
+.top-cloud{
+	margin-top: 15px;
+	position: relative;
+	left: 300px;
+	bottom: 20px;
+	height: 80px;
+
+}
+
+.my{
+	width: 200px;
+	height: 220px;
+	border-radius: 100%;
+}
+
+.skill1{
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 50px;
+}
+
+.skill2{
+	width: 200px;
+	height: 200px;
+	float: right;
+	margin-left: 50px;
+}
+
+.intro{
+	width: 30%;
+	margin:auto;
+}
+
+.contact-msg{
+	width: 30%;
+	margin: 40px auto 60px;
+}
+
+
+.btn{
+	background:linear-gradient(to bottom, #1d4d4f 5%, #1d4d4f 100%);
+	background-color:#1d4d4f;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	font-weight: bold;
+	padding:12px 21px;
+	text-decoration:none;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #357376 5%, #357376 100%);
+	background-color:#357376;
+	color: #ffffff;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright{
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 50px;
+	color: #e5dfdf;
+	font-size: 0.85rem;
+
+}
