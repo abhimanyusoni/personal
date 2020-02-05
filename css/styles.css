@@ -1,7 +1,9 @@
 body{
 	margin:0;
 	text-align: center;
+	color:#450023;
 	font-family: 'Merriweather', serif;
+	background-color: #f7f7f8;
 
 
 }
@@ -11,20 +13,20 @@ h1{
 	
 	font-family: 'Sacramento', cursive;
 	font-size: 562.5%;
-	color: #e5dfdf;
+	color: #c82586;
 
 }
 
 h2{
 	font-family: 'Montserrat', sans-serif;
-	color: #11999E;
+	color: #c82586;
 	font-size: 2rem;
 
 }
 
 h3{
 	font-family: 'Montserrat', sans-serif;
-	color: #11999E;
+	color: #c82586;
 
 }
 
@@ -36,7 +38,7 @@ hr{
 	border-spacing: 5px;
 	width: 5%;
 	border-style: dotted;
-	border-color: #e3f6f5;
+	border-color: #e8cfdc;
 	margin:100px auto;
 }
 
@@ -65,13 +67,13 @@ a:hover{
 	font-family: sans-serif;
 	/*font-weight: bold;*/
 	font-size: 2rem;
-	color: #e5dfdf;
+	color: #c82586;
 
 }
 
 .top-container{
 	padding-top: 50px;
-	background-color: #1d4d4f;
+	background-color: #291f71;
 }
 
 .middle-container{
@@ -79,7 +81,7 @@ a:hover{
 }
 
 .bottom-container{
-	background-color: #1d4d4f;
+	background-color: #291f71;
 	padding: 50px 0 20px;
 }
 
@@ -135,8 +137,8 @@ a:hover{
 
 
 .btn{
-	background:linear-gradient(to bottom, #1d4d4f 5%, #1d4d4f 100%);
-	background-color:#1d4d4f;
+	background:linear-gradient(to bottom, #ba0062 5%, #ba0062 100%);
+	background-color: #ba0062;
 	border-radius:8px;
 	display:inline-block;
 	cursor:pointer;
@@ -148,8 +150,8 @@ a:hover{
 	text-decoration:none;
 }
 .btn:hover {
-	background:linear-gradient(to bottom, #357376 5%, #357376 100%);
-	background-color:#357376;
+	background:linear-gradient(to bottom, #94004e 5%, #94004e 100%);
+	background-color: #94004e;
 	color: #ffffff;
 }
 .btn:active {
